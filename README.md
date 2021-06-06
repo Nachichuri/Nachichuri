@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/nachichuri)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/emilionagy/)
+[<img src="https://github.com/get-icon/geticon/raw/master/icons/twitter.svg" alt="twitter" height="30">](https://twitter.com/nachichuri)
+[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="linkedin" height="30">](https://www.linkedin.com/in/emilionagy/)
 
 ### Some of the tech I love to work with:
 
