@@ -48,7 +48,7 @@
 
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="30px" height="30px">](#)
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" title="Terraform" width="30px" height="30px">](#)
-[<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="30px" title="30px" height="30px">](#)
+[<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" title="AWS" width="30px" height="30px">](#)
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/datadog.svg" alt="Datadog" title="Datadog" width="30px" height="30px">](#)
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/prometheus.svg" alt="Prometheus" title="Prometheus" width="30px" height="30px">](#)
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="30px" height="30px">](#)
