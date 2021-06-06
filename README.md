@@ -1,9 +1,3 @@
-<style>
-    img {
-        padding-right:10px;
-    }
-</style>
-
 # Hi there, I'm Emi - aka Nachichuri 👋
 
 ## I'm a programmer, tinkerer and tech enthusiast!
@@ -13,18 +7,14 @@
 - 📫 How to reach me: nachichuri@gmail.com
 - 😄 Pronouns: He/Him
 
-<br />
-
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/nachichuri)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/emilionagy/)
 
-<br />
-
 ### Some of the tech I love to work with:
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
+<img style="padding-right:10px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="Pandas" width="30px" height="30px"></a>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="30px" height="30px"></a>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" alt="Ubuntu" width="30px" height="30px"></a>
@@ -37,9 +27,7 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="30px" height="30px"></a>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="Heroku" width="30px" height="30px"></a>
 
-<br />
-
-<details><summary>Here's some tech I've also worked with:</summary>
+<details><summary><h4>Here's some tech I've also worked with:</h4></summary>
 <p>
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="Java" width="30px" height="30px"></a>
@@ -54,8 +42,6 @@
 
 </p>
 </details>
-
-<br />
 
 <details><summary>And some tech I'd love to start working more with:</summary>
 <p>
