@@ -1,6 +1,6 @@
 ## About me:
 
-★★☆☆☆ - "The coffee-to-code conversion rate is not up to scratch"
+★★☆☆☆ - "The coffee-to-code conversion rate is unacceptable"
 
 ★☆☆☆☆ - "Won't use Windows"
 
